@@ -1,0 +1,88 @@
+.centro {
+    text-align: center;
+}
+
+.text-platao {
+    display: inline-block;
+    margin-top: -600px;
+    text-align: center;
+    padding: 50px;
+    width: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img-aristoteles {
+    margin-left: 1600px;
+    display: flex;
+    margin-top: -400px;
+    height: 310px;
+}
+
+
+body {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left center;
+}
+
+.branco {
+    color: white;
+}    
+
+
+.container {
+    display: flex;
+}
+
+.text-aristoteles {
+    display: inline-block;
+    margin-top: -400px;
+    text-align: center;
+    padding: 50px;
+    width: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 1250px;
+}
+
+.ideia {
+    margin-left: 1400px;
+    margin-top: -127px;
+}
+
+.ideias {
+    display: flexbox;
+    align-items: stretch;
+    margin-left: 1390px;
+    text-align: justify;
+}
+
+.cor-red {
+    color: red;
+    text-align: center;
+}
+
+.texto-questoes {
+    text-align: left;
+    display: flex;
+    padding: 20px;
+    width: 500px;
+}
+
+.texto-2 {
+   margin-left: 1350px;  
+   text-align: left;
+}
+
+.t3 {
+    margin-top: -700px;
+    margin-left: 1400px; 
+}
+
+.t4 {
+    margin-left: 1400px; 
+}
+
+body {
+    background-color: #ccc;
+}
